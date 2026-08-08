@@ -35,8 +35,9 @@ python tetris9k.py
 
 | Key | Action |
 |-----|--------|
-| ← / → | Rotate figure |
-| ↑ / ↓ | Rotate figure |
+| ← / → | Move figure |
+| ↑     | Rotate figure |
+| SPACE | Drop figure down |
 | Enter | Confirm menu selection |
 | Esc | Pause / open menu |
 | M | Toggle background music |
